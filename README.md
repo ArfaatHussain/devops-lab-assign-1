@@ -6,10 +6,11 @@ The Student Management System (SMS) is a web-based application designed to simpl
 
 In the project directory, you have to install necessary libbraries by using command:
 
+### `npm install`
 
 After this, you can start by using below command
 
-### `npm install`
+### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
